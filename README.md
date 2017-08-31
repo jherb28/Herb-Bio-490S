@@ -1,2 +1,2 @@
-# Herb-Bio-490S-
+# Herb-Bio-490S
 Repository for Bio 490S
